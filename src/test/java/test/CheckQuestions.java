@@ -9,7 +9,7 @@ import ru.yandex.praktikum.MainPage;
 import static ru.yandex.praktikum.PageAnswer.answer;
 
 
-public class CheckQuesst{
+public class CheckQuestions{
     private WebDriver driver;
 
     @Test
